@@ -1,3 +1,5 @@
+//02.06.2022
+//Exercise 2 - Classes, inheriting and overloading
 #include <iostream>
 #include <cmath>
 #include <vector>
