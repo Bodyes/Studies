@@ -1,3 +1,6 @@
+//01.06.2022
+//Exercise 1 - learning some classes 
+
 #include <iostream>
 #include <cmath>
 #include <vector>
